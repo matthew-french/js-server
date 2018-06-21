@@ -1,0 +1,19 @@
+{
+  "name": "js-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node bin/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthew-french/js-server.git"
+  },
+  "author": "Matt French <matt.french@palringo.com> (http://palringo.im)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthew-french/js-server/issues"
+  },
+  "homepage": "https://github.com/matthew-french/js-server#readme"
+}
